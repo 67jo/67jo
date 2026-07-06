@@ -11,7 +11,7 @@ Full Stack Developer passionate about building modern and scalable applications.
 <p align="center">
   <img src="https://github-stats-extended-chi.vercel.app/api?username=67jo&theme=tokyonight&show_icons=true" height="180"/>
 
-  <img src="https://github-stats-extended-chi.vercel.app/api/top-langs?username=67jo&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-stats-extended-chi.vercel.app/api?username=67jo&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
